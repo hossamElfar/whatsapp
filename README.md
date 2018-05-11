@@ -17,6 +17,7 @@ A massively scalable implementation of whatsapp.
 4. mongodb
 5. rabbitmq
 6. haproxy
+7. docker and docker-compose
 
 ### Installing
 1. Run the 5 maven apps, main-server, chatting-app, auth-app, user-app, stories-app. Make sure to modify the resources files in each app to support your own configurations.
