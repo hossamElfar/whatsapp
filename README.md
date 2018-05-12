@@ -1,6 +1,6 @@
 # whatsapp 
 
-A massively scalable implementation of whatsapp.
+A massively scalable implementation of whatsapp :speech_balloon: :rocket:
 
 ## Getting Started
 
